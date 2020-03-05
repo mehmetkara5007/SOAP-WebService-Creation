@@ -12,6 +12,7 @@ namespace WebServis.Host
     // NOTE: You can use the "Rename" command on the "Refactor" menu to change the class name "Feed1" in both code and config file together.
     public class Feed1 : IFeed1
     {
+        // TODO: yeni seyler var yapilacak   
         public SyndicationFeedFormatter CreateFeed()
         {
             // Create a new Syndication Feed.
